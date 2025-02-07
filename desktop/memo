@@ -1,0 +1,8 @@
+gcc -o test test.c -lX11
+
+put file
+cp ./.xinitrc ~/.xinitrc
+
+in virtual console
+(ctl + alt + f(1 ~ 6))
+$ startx (enter)
